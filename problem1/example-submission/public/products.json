@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Watch",
+    "price": 199.99,
+    "description": "Track your fitness goals with GPS, heart rate monitor, and sleep tracking.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Leather Messenger Bag",
+    "price": 89.99,
+    "description": "Handcrafted genuine leather bag perfect for work or travel.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "description": "Insulated water bottle keeps drinks cold for 24 hours, hot for 12 hours.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Organic Cotton T-Shirt",
+    "price": 29.99,
+    "description": "Soft, breathable, and sustainable. Available in multiple colors.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Slim Fit Denim Jeans",
+    "price": 69.99,
+    "description": "Classic denim jeans with modern slim fit and stretch comfort.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Portable Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Waterproof speaker with 360-degree sound and 12-hour battery.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Minimalist Wallet",
+    "price": 34.99,
+    "description": "Sleek leather wallet with RFID blocking technology.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Wireless Charging Pad",
+    "price": 29.99,
+    "description": "Fast wireless charging for all Qi-enabled devices.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1591290619762-c588f0e2dd98?w=500&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Canvas Sneakers",
+    "price": 54.99,
+    "description": "Comfortable casual sneakers with classic design.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Polarized Sunglasses",
+    "price": 79.99,
+    "description": "UV protection sunglasses with polarized lenses.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Mechanical Keyboard",
+    "price": 129.99,
+    "description": "RGB backlit mechanical keyboard with custom switches.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Wool Blend Sweater",
+    "price": 59.99,
+    "description": "Cozy sweater perfect for cold weather.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Stainless Steel Watch",
+    "price": 149.99,
+    "description": "Classic analog watch with sapphire crystal and water resistance.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=500&q=80"
+  },
+  {
+    "id": 15,
+    "title": "USB-C Hub Adapter",
+    "price": 39.99,
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=500&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Hooded Sweatshirt",
+    "price": 44.99,
+    "description": "Comfortable cotton-blend hoodie with front pocket.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Laptop Backpack",
+    "price": 64.99,
+    "description": "Durable backpack with padded laptop compartment up to 15 inches.",
+    "category": "accessories",
+    "image": "https://via.placeholder.com/500"
+  },
+  {
+    "id": 18,
+    "title": "Wireless Mouse",
+    "price": 34.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Athletic Running Shoes",
+    "price": 89.99,
+    "description": "Lightweight running shoes with responsive cushioning.",
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Phone Stand with Charger",
+    "price": 27.99,
+    "description": "Adjustable phone stand with built-in wireless charging.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500&q=80"
+  }
+]
